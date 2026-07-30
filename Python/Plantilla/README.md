@@ -16,6 +16,12 @@
 
 ---
 
+> **Importante:** Este tema utiliza librerías externas. Antes de ejecutar el código, instala las dependencias ejecutando en la terminal:
+>
+> `pip install -r requirements.txt`
+
+---
+
 ## ¿Qué es?
 [Explicación clara, conceptual y directa de qué es este tema, sin tecnicismos innecesarios o introduciendo los términos clave desde el inicio.]
 
@@ -38,7 +44,9 @@
 ---
 
 ## Código Principal
->las triples comillas son para que no lo cuente como código
+> **Nota de ejecución:** Asegúrate de haber instalado las librerías del proyecto con `pip install -r requirements.txt` en tu entorno virtual o terminal antes de correr `main.py`.
+
+[Archivo del código principal]
 
 ```[lenguaje]
 // Archivo: main.[ext]
